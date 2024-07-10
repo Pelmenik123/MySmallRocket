@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySmallRocket", "MySmallRocket\MySmallRocket.csproj", "{7E0F52DD-3AF3-4C7E-A78E-60FF8D987A26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E0F52DD-3AF3-4C7E-A78E-60FF8D987A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0F52DD-3AF3-4C7E-A78E-60FF8D987A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0F52DD-3AF3-4C7E-A78E-60FF8D987A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0F52DD-3AF3-4C7E-A78E-60FF8D987A26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50A1291B-DDD3-46DF-BCCB-AF08EE850412}
+	EndGlobalSection
+EndGlobal
